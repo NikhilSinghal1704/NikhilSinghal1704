@@ -1,1 +1,91 @@
-<h1 align="center">Hello there! I'm Nikhil 👋</h1><h3 align="center">Versatile Python Developer | Backend Engineer | Scalable Systems & AI</h3><p align="center">I'm a final-year Computer Science student passionate about building scalable, production-ready backend systems using Python and Django.My expertise lies in developing robust REST APIs and real-time applications using WebSockets, and I leverage Celery/Redis for distributed task scheduling.I have significant experience in DevOps, utilizing Docker, Jenkins, and GitHub Actions for streamlined CI/CD pipelines. I enjoy integrating Large Language Models (LLMs)—like my work with Gemini 2.5-flash-lite—and applying machine learning techniques for practical, data-driven solutions in areas like data pipelines and NLP. I thrive on creating reliable, high-performance software.</p><p align="left"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DNikhilSinghal1704%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="NikhilSinghal1704" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DNikhilSinghal1704" alt="NikhilSinghal1704" /></a> </p><h3 align="left">Connect with me:</h3><p align="left"><!-- Using icons from the generator, only linking those available in the resume. --><a href="https://linkedin.com/in/nikhil-singhal-0a5b83206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilsinghal" height="30" width="40" /></a><a href="https://github.com/NikhilSinghal1704" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NikhilSinghal1704" height="30" width="40" /></a><a href="mailto:nikhilsinghal1704@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nikhilsinghal1704" height="30" width="40" /></a><a href="https://www.hackerrank.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left"><!-- Python & Django Ecosystem --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://www.google.com/search?q=https://www.djangoproject.com/frameworks/rest/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="drf" width="40" height="40"/> </a><!-- DevOps & Deployment --><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a><!-- Databases & Caching --><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><!-- Data/ML & Frontend Basics --><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p><!-- GitHub Stats --><p><img align="left" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DNikhilSinghal1704%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddark" alt="NikhilSinghal1704" /></p><p>&nbsp;<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNikhilSinghal1704%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddark" alt="NikhilSinghal1704" /></p><p><img align="center" src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DNikhilSinghal1704%26type%3Dpng%26theme%3Ddark" alt="NikhilSinghal1704" /></p>
+<!-- README.md for Nikhil Singhal (NikhilSinghal1704) -->
+<!-- Dark + Neon dashboard style | Collapsible sections | Animated header + live metrics -->
+
+<p align="center">
+  <!-- Header GIF: replace HEADER_GIF_URL with a GIF from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+  <img src="HEADER_GIF_URL" alt="neon-header-gif" width="100%" style="max-height:220px; object-fit:cover; border-radius:12px;" />
+</p>
+
+<h1 align="center" style="margin-top:12px">Hi — I'm <b>Nikhil Singhal</b> 👋</h1>
+<p align="center">
+  Final-year CSE student • Backend & AI enthusiast • Python | Django | Docker
+</p>
+
+<p align="center">
+  <!-- Profile Views (mandated) -->
+  <img src="https://komarev.com/ghpvc/?username=NikhilSinghal1704&style=for-the-badge&color=00ff99" alt="profile views" />
+
+  <!-- GitHub Readme Stats (dark/neon theme) -->
+  <a href="https://github.com/NikhilSinghal1704">
+    <img align="center" alt="Nikhil's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NikhilSinghal1704&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+  </a>
+</p>
+
+---
+
+<details>
+<summary><strong>🛠️ Skills — click to expand</strong></summary>
+
+<!-- Minimalist, flowing badge line(s). Colors chosen to be neon-on-dark-friendly. Adjust/remove badges as needed -->
+<p align="center" style="margin-top:10px">
+  <!-- Programming & Data -->
+  <img src="https://img.shields.io/badge/-Python-00ff99?logo=python&style=for-the-badge&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-SQL-00e6ff?logo=mysql&style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-C-ff00ea?logo=c&style=for-the-badge&logoColor=white" alt="C" />
+
+  <br/><br/>
+
+  <!-- Backend / Frameworks -->
+  <img src="https://img.shields.io/badge/-Django-00ffd5?logo=django&style=for-the-badge&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-DjangoREST-00b3ff?logo=django&style=for-the-badge&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/-WebSockets-8a00ff?style=for-the-badge&logo=websocket" alt="WebSockets" />
+
+  <br/><br/>
+
+  <!-- DevOps / Data -->
+  <img src="https://img.shields.io/badge/-Docker-00ffd5?logo=docker&style=for-the-badge&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Jenkins-00e6ff?logo=jenkins&style=for-the-badge&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Celery-ff00cc?style=for-the-badge" alt="Celery" />
+  <img src="https://img.shields.io/badge/-Redis-00ff99?logo=redis&style=for-the-badge&logoColor=white" alt="Redis" />
+
+  <br/><br/>
+
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/-Pandas-00ffd5?style=for-the-badge" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-00e6ff?style=for-the-badge" alt="sklearn" />
+  <img src="https://img.shields.io/badge/-SentenceTransformers-8a00ff?style=for-the-badge" alt="SentenceTransformers" />
+
+  <br/><br/>
+
+  <!-- Tools & Deployment -->
+  <img src="https://img.shields.io/badge/-GitHub-A6FFEA?logo=github&style=for-the-badge&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Azure-00e6ff?logo=microsoftazure&style=for-the-badge&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/-Linux-00ff99?logo=linux&style=for-the-badge&logoColor=black" alt="Linux"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>📂 Pinned Projects</strong></summary>
+
+> Projects are omitted from this README (using GitHub's pinned-repos).  
+> Use pinned repos to showcase live demos and project links.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📈 Dynamic Metrics & Activity</strong></summary>
+
+### Live metrics (neon-styled)
+Below is a **dynamic metrics SVG** generated by `lowlighter/metrics`.  
+I recommend creating a generated SVG inside this repo (example: `metrics.svg`) using the example workflow included below — then embed it here to ensure stable rendering:
+
+<!-- If you generate metrics.svg inside this repo, point to it like this -->
+<p align="center">
+  <!-- Replace the path if you generate the SVG at a different path -->
+  <img src="./metrics.svg" alt="GitHub metrics" style="max-width:100%; border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);" />
+</p>
